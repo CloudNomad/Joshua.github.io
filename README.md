@@ -24,7 +24,7 @@ Detail-oriented Software Developer with 4 years of experience in developing and 
 
 ### **ESL Academy in Korea**  
 **ESL Instructor**, Seoul, South Korea  
-*April 2023 – April 2023*
+*April 2023 – Present*
 
 - Delivered English language instruction to kindergarten and elementary students through immersive learning.
 - Fostered a supportive and inclusive classroom environment where students feel safe to express themselves.
