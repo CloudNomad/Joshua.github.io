@@ -1,5 +1,5 @@
 title: Joshua
 logo: /assets/img/headshot_circle.png
-description: Software Developer | ESL Instructor
-# show_downloads: true
+# description: Software Developer | ESL Instructor
+show_downloads: true
 theme: jekyll-theme-minimal
