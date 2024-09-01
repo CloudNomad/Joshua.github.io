@@ -87,7 +87,7 @@ University of Illinois, Urbana-Champaign
 - Integrated various tools for continuous performance for monitoring and reporting.
 
 ### **Model Development for Assessment of Hopper and Ampere Chips**
-- Created a recommendation engine using Python and machine learning algorithms that increased sales by 18% for an online retailer.
+- Integrated the binning tool with internal databases, ensuring seamless data flow and accessibility for engineering teams.
 - Collaborated with the ML team to fine-tune models for analyzing chip performance.
 
 ---
