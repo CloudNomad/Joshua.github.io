@@ -80,14 +80,6 @@ University of Illinois, Urbana-Champaign
 
 ---
 
-## **Certifications**
-
-- **AWS Certified Solutions Architect – Associate** (2022)
-- **Certified Scrum Master (CSM)** (2021)
-- **Oracle Certified Java Programmer** (2019)
-
----
-
 ## **Projects**
 
 ### **Automated Chip Performance Analysis Tool**
