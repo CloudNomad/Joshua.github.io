@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-Detail-oriented Software Developer with 4 years of experience in developing and automating applications, managing databases, and collaborating with cross-functional teams. Proficient in Python, React, and Django, with a strong focus on building efficient, scalable solutions. Adept at optimizing processes, ensuring high code quality, and delivering projects on time in agile environments.
+Detail-oriented Software Developer with 5+ years of experience in developing and automating applications, managing databases, and collaborating with cross-functional teams. Proficient in Python, React, and Django, with a strong focus on building efficient, scalable solutions. Adept at optimizing processes, ensuring high code quality, and delivering projects on time in agile environments.
 
 ---
 
